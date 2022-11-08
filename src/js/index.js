@@ -5,4 +5,10 @@ ui();
 router();
 
 console.log('hello mom');
-console.log('heiheihei      ');
+console.log('heiheihei                           ');
+
+function myFunk() {
+    console.log('inside function    ');
+}
+
+myFunk();
