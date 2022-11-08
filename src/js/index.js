@@ -4,4 +4,5 @@ import ui from './ui/index.js';
 ui();
 router();
 
-console.log('hei');
+console.log('hello mom');
+console.log('heiheihei      ');
